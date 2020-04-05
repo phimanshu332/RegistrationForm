@@ -1,0 +1,32 @@
+body{
+	background: linear-gradient(rgba(0,0,50,0.5),rgba(0,0,50,0.2)),url(image.jpg);
+		background-size: cover;
+		background-position: center;
+}
+.login-box{
+	max-width: 1000px;
+	float: none;
+	margin: 100px auto;
+}
+.login-left{
+	background: rgba(211,211,211,0.5);
+	padding:30px;
+}
+.login-right{
+	background:#fff;
+	padding: 30px;
+}
+.form-control{
+	background-color: transparent !important;
+}
+a{
+	color: Black !important;
+	margin-top:100px;
+}
+h1
+{
+	color: #fff !important;
+	margin-top: 100px !important;
+	text-align: right;
+	text-transform:uppercase;
+}
